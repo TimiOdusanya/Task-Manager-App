@@ -18,10 +18,9 @@ User-Friendly Interface: The intuitive and clean interface makes it easy to add,
 
 Technology Stack:
 
-Frontend: HTML, CSS, JavaScript (or preferred frontend framework)
-Backend: Node.js, Express.js (or your preferred backend technology)
-Database: MongoDB (or your preferred database system)
-Deployment: Hosted on GitHub Pages (frontend) and Heroku (backend)
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js, Express.js 
+Database: MongoDB
 
 Getting Started:
 
